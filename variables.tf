@@ -7,7 +7,7 @@ variable "aws_region" {
 variable "aws_profile" {
   description = "AWS profile"
   type        = string
-  default     = "MayarHossam"
+  default     = "AhmedHazem"
 }
 
 variable "resource_prefix" {
@@ -19,7 +19,7 @@ variable "resource_prefix" {
 variable "docker_image" {
   description = "DockerHub image to be deployed."
   type        = string
-  default     = "mayaremam/library_app:latest"
+  default     = "ahmed99007/library_app:latest"
 }
 
 variable "vpc_cidr" {
