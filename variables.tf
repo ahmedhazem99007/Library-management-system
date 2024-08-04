@@ -19,7 +19,7 @@ variable "resource_prefix" {
 variable "docker_image" {
   description = "DockerHub image to be deployed."
   type        = string
-  default     = "ahmed99007/library_app:latest"
+  default     = "ahmed99007/library_management_system_flask"
 }
 
 variable "vpc_cidr" {
