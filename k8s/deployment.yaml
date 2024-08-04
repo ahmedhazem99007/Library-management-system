@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: library-app
-          image: ahmed99007/library_app:latest 
+          image: ahmed99007/library_management_system_flask:latest 
           imagePullPolicy: Always 
           ports:
             - containerPort: 5000
