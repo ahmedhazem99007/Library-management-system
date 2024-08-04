@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: library-app
-          image: mayaremam/library_app:latest 
+          image: ahmed99007/library_app:latest 
           imagePullPolicy: Always 
           ports:
             - containerPort: 5000
