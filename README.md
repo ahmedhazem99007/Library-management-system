@@ -93,9 +93,9 @@ The project follows a **DevOps Workflow Lifecycle**:
 
 ---
 
+
 # 📊 Workflow Diagram  
-# 📊 Workflow Diagram  
-Plan & Code → Build (Docker) → Release (Terraform) → Deploy (Kubernetes) → Operate → Monitor & Improve
+- Plan & Code → Build (Docker) → Release (Terraform) → Deploy (Kubernetes) → Operate → Monitor & Improve
 
 ---
 
